@@ -1,11 +1,5 @@
 {
   "applinks": {
-    "details": [
-      {
-        "appIDs": [
-          "LMY4YJ949Q.com.thalesgroup.gemalto.d1.TestApp"
-        ]
-      }
-    ]
+    "app": [ "LMY4YJ949Q.com.thalesgroup.gemalto.d1.TestApp" ]
   }
 }
