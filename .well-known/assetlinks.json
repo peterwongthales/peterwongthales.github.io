@@ -1,0 +1,12 @@
+[
+  {
+    "relation": ["delegate_permission/common.handle_all_urls"],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "com.example.androidcustomtab",
+      "sha256_cert_fingerprints": [
+         "A5:5F:D4:0D:1F:A8:DA:E9:52:D1:FF:F1:DC:05:85:96:7E:11:0D:6E:FE:57:FD:CD:A6:EB:AC:61:EF:9B:A9:F1"
+      ]
+    }
+  }
+]
