@@ -1,6 +1,6 @@
 {
   "applinks": {
-    "apps": [ "LMY4YJ949Q.com.thalesgroup.gemalto.d1.TestApp", "LMY4YJ949Q.com.thalesgroup.pay.passkeypoc" ]
+    "apps": [ "LMY4YJ949Q.com.thalesgroup.gemalto.d1.TestApp" ]
   },
   "webcredentials": {
     "apps": [ "LMY4YJ949Q.com.thalesgroup.pay.passkeypoc" ]
